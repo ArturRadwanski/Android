@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Artur001</string>
+    <string name="Albums">Albums</string>
+    <string name="Camera">Camera</string>
+    <string name="Collage">Collage</string>
+    <string name="Public">Public</string>
+    <string name="add">add</string>
+    <string name="dialogTitle">Add new directory</string>
+    <string name="dialogMessage">Give me the name</string>
+    <string name="positive">Ok</string>
+    <string name="negative">Cancel</string>
+    <string name="mainPath">/storage/emulated/0/Pictures/Radwanski</string>
+    <string name="deleteDialogTitle">Delete directory</string>
+    <string name="deleteDialogMessage">Are you sure?</string>
+</resources>
